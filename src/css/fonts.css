@@ -1,0 +1,25 @@
+.txt-gradient{
+   
+    background: linear-gradient(232deg, #F50F0F 0%, #6E3AFF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+
+.jakarta-font{
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+
+.roboto{
+    font-family: "Roboto Slab", serif;
+    font-weight: 700;
+}
+
+.roboto-thin{
+    font-family: "Roboto Slab", serif;
+    font-weight: 400;
+}
+
